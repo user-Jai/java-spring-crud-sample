@@ -106,10 +106,9 @@ Java のバックエンド開発学習のアウトプットとして作成しま
 
 1. リポジトリをクローン
 
-```bash
 git clone https://github.com/user-Jai/java-spring-crud-sample.git
 
-2. IDEで開く
+3. IDEで開く
 
 IntelliJ IDEA や Eclipse などの Java 対応 IDE でプロジェクトを開きます。
 
